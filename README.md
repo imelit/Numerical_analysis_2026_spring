@@ -21,6 +21,9 @@ Texto principal:
 
 Se recomienda leer las secciones correspondientes **antes de cada clase**.
 
+Textos complementarios
+
+https://www.academia.edu/30466412/An%C3%A1lisis_Num%C3%A9rico_J_Douglas_Faires_y_Richard_L_Burden_M%C3%A9todos_Num%C3%A9ricos_
 
 ---
 
