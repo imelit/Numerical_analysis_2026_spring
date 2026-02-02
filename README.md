@@ -2,12 +2,14 @@
 
 **Instructora:** Imelda Trejo Lorenzo
 **Centro de Ciencias Matemáticas, UNAM**
-https://github.com/imelit/Numerical_analysis_2026_spring/blob/main/instrucciones_generales_del_curso.pdf
+
 ---
 
 ## Descripción
 
 Este repositorio contiene el material oficial del curso **Análisis Numérico**. Aquí se publicarán notas de clase, material computacional y tareas. 
+
+https://github.com/imelit/Numerical_analysis_2026_spring/blob/main/instrucciones_generales_del_curso.pdf
 
 ---
 
