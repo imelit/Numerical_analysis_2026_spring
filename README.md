@@ -1,7 +1,6 @@
 # Análisis Numérico
 
 **Instructora:** Imelda Trejo Lorenzo
-**Centro de Ciencias Matemáticas, UNAM**
 
 ---
 
