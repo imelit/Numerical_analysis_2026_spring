@@ -2,7 +2,7 @@
 
 **Instructora:** Imelda Trejo Lorenzo
 **Centro de Ciencias Matemáticas, UNAM**
-
+https://github.com/imelit/Numerical_analysis_2026_spring/blob/main/instrucciones_generales_del_curso.pdf
 ---
 
 ## Descripción
