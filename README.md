@@ -1,7 +1,8 @@
 # Análisis Numérico
 
 **Instructora:** Imelda Trejo Lorenzo
-**Asesorias: Martes 15:20--17:30 hrs**
+
+**Asesorias:** Martes 15:20--17:30 hrs
 ---
 
 ## Descripción
